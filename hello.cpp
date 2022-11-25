@@ -15,9 +15,9 @@ int main()
     cout << "\n";
     cout << "done! it took: "<< ((float)end - start)/CLOCKS_PER_SEC << " seconds\n";
 
-    cout << "goodbye!"; //Thanks ttijs!
+    cout << "Goodbye!"; //Thanks ttijs!
     cout << "\n";
-    system("PAUSE");
+    system("PAUSE"); // You're welcome Skebas
     return 0;
 }
 
