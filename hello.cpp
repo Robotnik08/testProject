@@ -14,4 +14,7 @@ int main()
     cout << count;
     cout << "\n";
     cout << "done! it took: "<< ((float)end - start)/CLOCKS_PER_SEC << " seconds";
+
+    cout << "goodbye!";
 }
+
